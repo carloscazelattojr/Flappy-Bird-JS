@@ -151,7 +151,7 @@ function FlappyBird() {
     let pontos = 0
     
     const areaDoJogo = document.querySelector('[wm-flappy]')
-    const altura = 500//areaDoJogo.clientWidth -500
+    const altura =  areaDoJogo.clientWidth -500
     const largura = areaDoJogo.clientHeight
 
     const progresso = new Progresso()
