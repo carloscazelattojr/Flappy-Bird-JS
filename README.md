@@ -1,3 +1,27 @@
-"# Flappy-Bird-JS - Criado utilizando JavaScript" 
+# Flappy Bird's
 
-Disponível para Desktop em http://www.carlosjunior.com.br/play
+Esse projeto foi desenvolvimento durante o treinamento do Cod3r (Curso Udemy), onde mostra a criação de um game Flappy Bird's utilizando Javascript.
+
+**Versão online**
+* [Site](http://www.carlosjunior.com.br/flappy)
+
+
+## Tecnologias utilizadas:
+
+`Javascript`<br>
+
+<br>
+
+## Screenshots
+<table>
+	<tr>
+		<th width="100%">
+			Flappy Bird's<br>
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<img width="1080" src="https://github.com/carlosjunior1983/Flappy-Bird-JS/blob/master/imgs/flappy.jpg">
+		</td>
+	</tr>
+</table>
