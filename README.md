@@ -3,7 +3,7 @@
 Esse projeto foi desenvolvimento durante o treinamento do Cod3r (Curso Udemy), onde mostra a criação de um game Flappy Bird's utilizando Javascript.
 
 **Versão online**
-* [Site](http://www.carlosjunior.com.br/flappy)
+* [Site](http://www.carlosjunior.com.br/projects/flappy)
 
 
 ## Tecnologias utilizadas:
